@@ -26,7 +26,7 @@
 <a href="https://web.facebook.com/profile.php?id=100008700663802" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
 
- 
+![Snake animation](https://github.com/AllJonesFB/AllJonesFB/blob/output/github-contribution-grid-snake.svg)
   
   
 - 🔭 I’m currently working on Learning.
