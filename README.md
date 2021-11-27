@@ -23,7 +23,7 @@
  <a href="https://www.linkedin.com/in/allan-jones-barbosa-803042227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://web.facebook.com/profile.php?id=100008700663802" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href="https://web.facebook.com/profile.php?id=100008700663802" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/profiles/76561199214738513/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
 
 ![Snake animation](https://github.com/AllJonesFB/AllJonesFB/blob/output/github-contribution-grid-snake.svg)
