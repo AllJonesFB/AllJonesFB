@@ -26,8 +26,8 @@
 <a href="https://steamcommunity.com/profiles/76561199214738513/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
 
-![Snake animation](https://github.com/AllJonesFB/AllJonesFB/blob/output/github-contribution-grid-snake.svg)
-  
+
+
   
 - 🔭 I’m currently working on Learning.
 - 🌱 I’m currently learning HTML and CSS, Next will be python.
