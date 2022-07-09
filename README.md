@@ -35,6 +35,6 @@
 - 🤔 I’m looking for help with Activities to learning.
 - 💬 Ask me about everything you need, i´ll try to help the best that i can do.
 - 📫 How to reach me: follow here and in the social medias, i am open to contact there.
-- ⚡ Fun fact: i´dont know so i´will leave my favorite emoji :fox_face: 
+- ⚡ Fun fact: i´dont know so i´will leave my favorite emoji &#x1F916; : 
  
 -->
